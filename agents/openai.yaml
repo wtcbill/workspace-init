@@ -1,0 +1,6 @@
+interface:
+  display_name: "初始化工作区"
+  short_description: "初始化新工作区，按当前根目录生成标准规则文件并读取已有交接状态"
+
+policy:
+  allow_implicit_invocation: true
